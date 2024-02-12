@@ -20,6 +20,10 @@ body{
     clear: both;
 }
 
+a{
+    text-decoration:none;
+}
+
 /*header*/
 header{
     background-image: url(../Source/Home\ Background.jpeg);
