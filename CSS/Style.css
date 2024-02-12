@@ -158,7 +158,7 @@ nav a:hover{
     }
 }
 
-@media (min-width:90rem){
+@media (min-width:70rem){
     .about{
         background-image: url(../Source/Model.jpg);
         background-position:top;
@@ -250,7 +250,7 @@ nav a:hover{
         }
     }
 
-    @media (min-width:90rem) {
+    @media (min-width:70rem) {
 
        .portfolio{
         width:33.33%;
