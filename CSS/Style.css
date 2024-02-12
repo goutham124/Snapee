@@ -288,7 +288,7 @@ nav a:hover{
         position: relative;
         /* border:3px solid grey; */
         background-color: #a8dd3e;
-        padding:75px 0px;
+        padding:75px 2px;
         color:black;
         font-size: large;
         h2{
@@ -335,6 +335,7 @@ nav a:hover{
     text-align: center;
     background-color: #232323;
     color: white;
+    padding:1rem;
     p{
         padding-top: 1rem;
     }
